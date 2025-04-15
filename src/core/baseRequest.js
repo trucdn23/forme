@@ -1,5 +1,5 @@
 import axios from "axios";
-const apiUrl = 'http://for-me.free.nf/api/';
+const apiUrl = 'http://forme.example.com/api/';
 
 export default {
     getHeader() {
