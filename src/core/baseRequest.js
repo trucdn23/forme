@@ -1,5 +1,5 @@
 import axios from "axios";
-const apiUrl = 'http://127.0.0.1:8000/api/';
+const apiUrl = 'http://for-me.free.nf/api/';
 
 export default {
     getHeader() {
