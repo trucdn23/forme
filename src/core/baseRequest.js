@@ -1,5 +1,5 @@
 import axios from "axios";
-const apiUrl = 'http://forme.example.com/api/';
+const apiUrl = 'https://forme.example.com/api/';
 
 export default {
     getHeader() {
